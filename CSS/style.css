@@ -1,0 +1,23 @@
+.navigation {
+   width: 100%;
+   position: relative;
+   min-height: 60px;
+   z-index:1000;
+}
+
+#navbarNav {
+    justify-content: flex-end;
+}
+
+
+.navbar-brand {
+    font-family: 'Berkshire Swash', cursive; 
+    color: C399E3;
+}
+
+
+
+
+.jumbotron display-4 {
+    font-family: 'Berkshire Swash', cursive;
+}
