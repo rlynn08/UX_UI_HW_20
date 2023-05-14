@@ -5,19 +5,15 @@
    z-index:1000;
 }
 
-#navbarNav {
+#navbarNav{
     justify-content: flex-end;
 }
 
 
 .navbar-brand {
-    font-family: 'Berkshire Swash', cursive; 
-    color: C399E3;
+    color: C399E3 !important;
 }
 
 
 
 
-.jumbotron display-4 {
-    font-family: 'Berkshire Swash', cursive;
-}
